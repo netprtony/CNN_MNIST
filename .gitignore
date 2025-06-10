@@ -1,0 +1,9 @@
+# Bỏ qua thư mục môi trường ảo
+env312/
+
+# Bỏ qua file cache Python
+__pycache__/
+*.pyc
+
+# VSCode settings (nếu dùng)
+.vscode/
