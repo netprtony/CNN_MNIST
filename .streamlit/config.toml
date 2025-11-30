@@ -1,0 +1,13 @@
+[server]
+headless = true
+port = 8501
+
+[runner]
+pythonVersion = "3.12"
+
+[theme]
+primaryColor = "#2563eb"
+backgroundColor = "#0b1220"
+secondaryBackgroundColor = "#0f1724"
+textColor = "#e6edf3"
+font = "sans serif"
